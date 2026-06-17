@@ -46,18 +46,39 @@ Passionate about building scalable web applications using ASP.NET Core and moder
 
 ## 📌 Featured Projects
 
-### 🏋️ Fitverse – Gym Management System
-- Membership and subscription management
-- Attendance tracking and payment processing
-- Role-based authentication and authorization
-- ASP.NET Core MVC, Entity Framework Core, SQL Server
+<table>
+<tr>
+<td width="50%">
 
-### 👗 Imagine – AI Fashion & Brand Automation Platform
-- RESTful APIs built with ASP.NET Core Web API
-- Angular-based responsive user interface
-- Secure authentication and authorization
-- AI-powered automation for fashion brands
-- SQL Server, Entity Framework Core, JWT Authentication
+### 🏋️ Fitverse
+**Gym Management System**
+
+A comprehensive gym management platform for handling memberships, subscriptions, attendance, and payments.
+
+**Technologies**
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server
+- Bootstrap
+
+</td>
+
+<td width="50%">
+
+### 👗 Imagine
+**AI Fashion & Brand Automation Platform**
+
+An AI-powered platform that enables fashion brands to automate workflows and improve customer engagement.
+
+**Technologies**
+- ASP.NET Core Web API
+- Angular
+- SQL Server
+- JWT Authentication
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,5 +92,5 @@ Passionate about building scalable web applications using ASP.NET Core and moder
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your_email@example.com
+- LinkedIn: https://linkedin.com/in/Essam1120
+- Email: essam.adel.ah@gmail.com
