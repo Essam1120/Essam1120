@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Essam Adel</h1>
-<h3 align="center">.NET Full Stack Developer</h3>
+<h3 align="center"> Full Stack .NET Developer</h3>
 
 <p align="center">
 Passionate about building scalable web applications using ASP.NET Core and modern software architecture principles.
@@ -9,12 +9,12 @@ Passionate about building scalable web applications using ASP.NET Core and moder
 
 ## 🚀 About Me
 
-- 🎓 ITI .NET Full Stack Trainee
-- 💻 Specialized in ASP.NET Core MVC & Web API
-- 🏗️ Strong understanding of OOP, SOLID, Design Patterns & Clean Architecture
-- 🗄️ SQL Server & Entity Framework Core
-- 🌱 Currently learning Advanced ASP.NET Core & System Design
-- 📫 Reach me: your_email@example.com
+- 🎓 Graduate of the Faculty of Computers and Artificial Intelligence
+- 🎓 Completed the ITI .NET Full Stack Development Program
+- 💻 .NET Full Stack Developer with hands-on experience building scalable web applications using ASP.NET Core MVC, Web API, Entity Framework Core, and SQL Server
+- 🏗️ Strong foundation in OOP, SOLID Principles, Design Patterns, and Clean Architecture
+- 🚀 Passionate about software engineering, problem-solving, and building real-world business solutions
+- 📫 Reach me: essam.adel.ah@gmail.com
 
 ---
 
@@ -46,11 +46,18 @@ Passionate about building scalable web applications using ASP.NET Core and moder
 
 ## 📌 Featured Projects
 
-### 🏋️ Gym Management System
-Full-stack system for managing memberships, attendance, subscriptions and payments.
+### 🏋️ Fitverse – Gym Management System
+- Membership and subscription management
+- Attendance tracking and payment processing
+- Role-based authentication and authorization
+- ASP.NET Core MVC, Entity Framework Core, SQL Server
 
-### 📝 Online Examination System
-Secure platform for creating exams, managing students and tracking results.
+### 👗 Imagine – AI Fashion & Brand Automation Platform
+- RESTful APIs built with ASP.NET Core Web API
+- Angular-based responsive user interface
+- Secure authentication and authorization
+- AI-powered automation for fashion brands
+- SQL Server, Entity Framework Core, JWT Authentication
 
 ---
 
